@@ -1,4 +1,5 @@
-## Project Description (Report)[https://github.com/sabertoaster/BERT_Semantic_Textual_Similarity/blob/master/EVN_AI_BERT_final.pdf]
+## Project Description
+##### (https://github.com/sabertoaster/BERT_Semantic_Textual_Similarity/blob/master/EVN_AI_BERT_final.pdf)[Report]
 This is a simple program to compute the cosine similar of the two pieces of document using:
 - TextProcessing
 - TextEmbedding
