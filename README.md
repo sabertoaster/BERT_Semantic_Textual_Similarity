@@ -1,4 +1,4 @@
-## Project Description
+## Project Description (Report)[https://github.com/sabertoaster/BERT_Semantic_Textual_Similarity/blob/master/EVN_AI_BERT_final.pdf]
 This is a simple program to compute the cosine similar of the two pieces of document using:
 - TextProcessing
 - TextEmbedding
@@ -24,6 +24,3 @@ python main.py --doc1 "path/to/doc1.pdf" --doc2 "path/to/doc2.pdf"
 - How to use Longformer - PhoBERT to embed the text
 - How to use Cosine Similarity to compute the similarity of two vectors
 <br>
-and more in upcoming report :D
-
-
